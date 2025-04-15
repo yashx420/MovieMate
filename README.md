@@ -1,0 +1,1 @@
+A lightweight clone of Letterboxd built with React. Users can browse, search, rate, and review movies. Perfect as a learning project for building modern, interactive web apps using React and common frontend tools.
